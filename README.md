@@ -6,7 +6,7 @@
 Use the Npm Scripts 
 
 ```
-npm Start for starting server
+npm start           
 
 npm run-script start-react
 ```
