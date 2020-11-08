@@ -1,4 +1,4 @@
-# phone2actionExercise
+# Full Stack Exercise 
 
 
 ## Running The Code
